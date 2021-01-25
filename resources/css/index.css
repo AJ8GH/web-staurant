@@ -1,0 +1,25 @@
+body {
+  font-family: monospace;
+  font-size: 20px;
+  color: inherit;
+  margin: 75px;
+}
+
+p {
+  font-size: 18px;
+  font-style: normal;
+  color: maroon
+}
+
+header {
+  font-style: bold;
+  text-align: center;
+  font-size: 24px;
+  margin: 100px
+}
+
+footer {
+  font-style: bold;
+  text-align: center;
+  margin: 50px;
+}
